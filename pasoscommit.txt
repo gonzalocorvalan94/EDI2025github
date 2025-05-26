@@ -1,0 +1,7 @@
+Instrucciones para hacer un cambio 
+
+1) Añado los cambios de mi caja git add nombre_de_archivo / git add.
+2) Hago un git commit -m" estos son mis cambios"
+3) Entre medio puedo hacer git status para chequear el estado de mis cambios 
+4) git push origin nombre_del_branch (main por defecto. git push origin main)
+5) 
